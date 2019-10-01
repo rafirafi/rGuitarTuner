@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomCircularGauge.qml</file>
+        <file>CaptureSrcComboBox.qml</file>
+    </qresource>
+</RCC>

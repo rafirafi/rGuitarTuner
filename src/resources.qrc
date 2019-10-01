@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ts" lang="fr">
+        <file alias="ts.qm">languages/fr_FR.qm</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>win_icon.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+- port to other platforms supported by openal, fftw3 and Qt5 (Windows, macOS...)
+- add a mean to preselect a note
+- add a mean to detect a new capture source without relaunching
+- translate to other languages
+- support paysage mode on small android devices
