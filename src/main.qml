@@ -48,7 +48,7 @@ Window {
                 horizontalAlignment: Text.AlignHCenter
                 font.bold: true
                 color: "#656565"
-                text: qsTr("E:40 |A:45 |D:50 |G:55 |D:59 |E:64")
+                text: qsTr("E:40 |A:45 |D:50 |G:55 |B:59 |E:64")
             }
             Rectangle {
                 id: aboutText
