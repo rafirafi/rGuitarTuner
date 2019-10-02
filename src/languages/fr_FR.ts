@@ -21,7 +21,7 @@
     <name>main</name>
     <message>
         <location filename="../main.qml" line="55"/>
-        <source>E:40 |A:45 |D:50 |G:55 |D:59 |E:64</source>
+        <source>E:40 |A:45 |D:50 |G:55 |B:59 |E:64</source>
         <translation>Mi:40 |La:45 |Ré:50 |Sol:55 |Si:59 |Mi:64</translation>
     </message>
     <message>
